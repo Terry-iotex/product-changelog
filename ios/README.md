@@ -5,8 +5,7 @@
 - AA Wallet Relase [WIP]
 - 2.8 Release prepare [WIP]
   - Release log prepare [WIP]
-
-
+- i18n - ioPay 2.8
 
 ## 2023-11-10
 
@@ -19,3 +18,4 @@
 - AA wallet Inner Test [WIP]
 - AA wallet swap and stake、approve logic
 - AA wallet swap\transfer\stake testing
+- i18n - AA wallet
