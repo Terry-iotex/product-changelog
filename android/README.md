@@ -11,6 +11,7 @@
    - updata trust js
    - depin error page
    - stake cache
+   - Fix the chain display issue of dApp
 
 - 2.8.2 NEW FEATURES Prepare [WIP]
   - new transfer UI design [DONE]
